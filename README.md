@@ -1,8 +1,9 @@
 ## About
 
-A small RESTful API with JWT authentication mainly built with Node.js, Express and Mongoose.
+A small RESTful API with JWT authentication mainly built with TypeScript, Node.js, Express and Mongoose.
 
 ### All technologies used
+- [TypeScript](https://www.typescriptlang.org/)
 - [Node.js](https://nodejs.org/en/)
 - [Express.js](https://github.com/expressjs/express)
 - [Mongoose](https://github.com/Automattic/mongoose)
